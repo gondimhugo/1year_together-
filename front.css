@@ -1,8 +1,16 @@
+h1 {
+    text-align: center;
+    justify-content: space-between;
+}
+
 img{
     width: 250px;
     height: 30%;
+    justify-content:space-around;
 }
 
 * {
     background-color: red;
+    justify-content: space-between;
+    color: antiquewhite;
 }
